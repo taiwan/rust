@@ -1,2 +1,1 @@
-# rust
-Rust Programming Language Community
+# Rust Programming Language Community
